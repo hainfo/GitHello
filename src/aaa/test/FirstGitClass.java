@@ -1,10 +1,10 @@
 package aaa.test;
 
-public class FitGitClass {
+public class FirstGitClass {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World");
-
+		System.out.println("Modified!!!");
 	}
 
 }
